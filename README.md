@@ -14,6 +14,6 @@ Multifunctional and versatile PCB with direct USB connection.
 Can be populated with components as you wish, get it as a PCB, unsoldered kit or fully soldered, functional and tested.
 
 # Product pages
-PCB - https://3dstar.ro/componente/usb-key
-Kits - soon
-Ready to use - soon
+- PCB > https://3dstar.ro/componente/usb-key
+- Kits > soon
+- Ready to use > soon
