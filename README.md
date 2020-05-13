@@ -15,7 +15,7 @@ Multifunctional and versatile PCB with direct USB connection for ESP-01 or ESP-0
 Can be populated with components as you wish, get it as a PCB, unsoldered kit or fully soldered, functional and tested.
 
 # Product pages
-- PCB > https://3dstar.ro/componente/usb-key
+- <a href="https://3dstar.ro/componente/usb-key">PCB only</a>
 - Kits > soon
 - Ready to use > soon
 
